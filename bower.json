@@ -1,10 +1,10 @@
 {
   "name": "Parallax-ImageScroll",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "authors": [
     "Peder Andreas Nielsen <peder1976@gmail.com>"
   ],
-  "main": "jquery.imageScroll",
+  "main": "jquery.imageScroll.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
